@@ -28,4 +28,13 @@ This project demonstrates HR data analysis using Microsoft Excel.
 
 ## Author
 Tamzid Kazim
-Bachelor of Commerce (Health Management)
+Bachelor of Commerce (Health Management)## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](dashboard-main.png)
+
+### Job Satisfaction Dashboard
+![Job Satisfaction Dashboard](job-satisfaction.png)
+
+### Employee Engagement Dashboard
+![Employee Engagement Dashboard](employee-engagement.png)

@@ -30,11 +30,10 @@ This project demonstrates HR data analysis using Microsoft Excel.
 Tamzid Kazim
 Bachelor of Commerce (Health Management)## Dashboard Preview
 
-### Main Dashboard
-![Main Dashboard](dashboard-main.png)
+## Dashboard Preview
 
-### Job Satisfaction Dashboard
-![Job Satisfaction Dashboard](job-satisfaction.png)
+### Dashboard Screenshot
+![Dashboard Screenshot](Dashboard%20Screenshot.png)
 
-### Employee Engagement Dashboard
-![Employee Engagement Dashboard](employee-engagement.png)
+### HR Data Screen
+![HR Data Screen](HR%20Data%20Screen.png)
